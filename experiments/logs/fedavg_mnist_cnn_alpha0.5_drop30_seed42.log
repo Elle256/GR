@@ -1,0 +1,10 @@
+[Round   5/50] TrainLoss: 0.0424  TestLoss: 1.4329  TestAcc: 97.97%  Drift: 1.2274  Fairness: 0.0061  Active: 11/16  Time: 1173.1s
+[Round  10/50] TrainLoss: 0.0228  TestLoss: 1.4196  TestAcc: 98.50%  Drift: 1.0072  Fairness: 0.0034  Active: 7/16  Time: 2432.0s
+[Round  15/50] TrainLoss: 0.0184  TestLoss: 1.4278  TestAcc: 98.96%  Drift: 0.9510  Fairness: 0.0027  Active: 12/16  Time: 4062.6s
+[Round  20/50] TrainLoss: 0.0114  TestLoss: 1.4414  TestAcc: 99.00%  Drift: 0.8446  Fairness: 0.0020  Active: 12/16  Time: 5918.2s
+[Round  25/50] TrainLoss: 0.0110  TestLoss: 1.4386  TestAcc: 99.09%  Drift: 0.8564  Fairness: 0.0018  Active: 13/16  Time: 7756.7s
+[Round  30/50] TrainLoss: 0.0090  TestLoss: 1.4514  TestAcc: 99.19%  Drift: 0.8343  Fairness: 0.0010  Active: 8/16  Time: 9142.0s
+[Round  35/50] TrainLoss: 0.0076  TestLoss: 1.4417  TestAcc: 99.23%  Drift: 0.8157  Fairness: 0.0012  Active: 9/16  Time: 9757.4s
+[Round  40/50] TrainLoss: 0.0056  TestLoss: 1.4382  TestAcc: 99.14%  Drift: 0.7152  Fairness: 0.0021  Active: 13/16  Time: 10375.5s
+[Round  45/50] TrainLoss: 0.0057  TestLoss: 1.4462  TestAcc: 99.22%  Drift: 0.7314  Fairness: 0.0010  Active: 11/16  Time: 10973.1s
+[Round  50/50] TrainLoss: 0.0047  TestLoss: 1.4393  TestAcc: 99.22%  Drift: 0.6732  Fairness: 0.0011  Active: 9/16  Time: 11485.5s
