@@ -78,8 +78,8 @@ echo "=========================================="
 
 if python -c "import matplotlib" 2>/dev/null; then
   python plot.py \
-    --results_dir experiments/results \
-    --save_dir    images \
+    --results_dir /kaggle/working/experiments/result \
+    --save_dir    /kaggle/working/images \
     --charts convergence heatmap bar drift summary
 
   echo ""
