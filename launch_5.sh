@@ -17,7 +17,7 @@ LR=0.01
 
 ALPHAS=(10)
 DROPOUTS=(0.3)
-ALGORITHMS=(fedavg fedprox)
+ALGORITHMS=(fedprox)
 SEEDS=(42)
 
 MU=0.1   # FedProx proximal term
