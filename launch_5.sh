@@ -15,10 +15,10 @@ FRAC=0.8
 LOCAL_BS=64
 LR=0.01
 
-ALPHAS=(10)
-DROPOUTS=(0.0 0.5)
+ALPHAS=(1 10)
+DROPOUTS=(0.3)
 ALGORITHMS=(fedprox)
-SEEDS=(43)
+SEEDS=(42)
 
 MU=0.1   # FedProx proximal term
 
